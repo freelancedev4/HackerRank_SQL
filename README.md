@@ -5,7 +5,7 @@ Solutions of SQL challenges for all easy, medium and hard challenges on HackerRa
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](Basic_Select/Revising_the_Select_Query_1.sql)
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](Basic_Select/Revising_the_Select_Query_I.sql)
 | 2 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL](Basic_Select/Select_By_ID.sql)
 | 3 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL](Basic_Select/Japanese_Cities'_Attributes.sql)
 | 4 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [SQL](Basic_Select/Japanese_Cities'_Names.sql)
