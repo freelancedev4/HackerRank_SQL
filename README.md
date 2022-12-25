@@ -13,3 +13,5 @@ Solutions of SQL challenges for all easy, medium and hard challenges on HackerRa
 | 5 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [SQL](Basic_Select/Weather_Observation_Station_1.sql)
 | 6 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [SQL](Basic_Select/Weather_Observation_Station_3.sql)
 | 7 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [SQL](Basic_Select/Weather_Observation_Station_4.sql)
+| 8 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [SQL](Basic_Select/Weather_Observation_Station_5.sql)
+
